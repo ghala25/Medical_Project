@@ -1,0 +1,4 @@
+1- Surgery,1500.0,
+2- Anatomy2 course,1000.0
+3- Medical 2 principals,500.0
+4- Emergency Medicine2,1000.0

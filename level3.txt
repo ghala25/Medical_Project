@@ -1,0 +1,4 @@
+1- Surgery 2,1500.0
+2- Anatomy 3 course,1000.0
+3- Forensic medicine,500.0
+4- Emergency Medicine 3,1000.0

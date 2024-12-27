@@ -1,0 +1,10 @@
+
+
+
+---------------------------------------------------------
+Name= null
+
+ Id= 0
+ NumPhone= 0
+
+Service you've choose and their Price = [1- First aid course, 2- Anatomy1 course, 3- Medical principals, 4- Emergency Medicine]
